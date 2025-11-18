@@ -1,0 +1,8 @@
+[package]
+org = "coder"
+name = "mathtutor"
+version = "0.1.0"
+title = "MathTutor"
+
+[build-options]
+sticky = true
