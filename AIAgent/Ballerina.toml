@@ -1,0 +1,8 @@
+[package]
+org = "coder"
+name = "aiagent"
+version = "0.1.0"
+title = "AIAgent"
+
+[build-options]
+sticky = true
